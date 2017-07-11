@@ -7,7 +7,7 @@ from lxml import html
 import requests
 
 # obligatory I didn't do it warning.
-print("WARNING: This software only attempts to find the French origin on words. It is prone to fail due to the difficulties of scraping from etymonline.com. An update int he future will fix this. But until then, take all results with a grain (or spoon) of salt.")
+print("WARNING: This software only attempts to find the French origin on words. It is prone to fail due to the difficulties of scraping from etymonline.com. An update in the future will fix this. But until then, take all results with a grain (or spoon) of salt.")
 
 # useful variables
 
